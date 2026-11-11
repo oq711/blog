@@ -3,7 +3,7 @@
 个人博客，基于 [Hexo](https://hexo.io/zh-cn/) 8 + GitHub Pages 搭建。
 
 - 线上地址：<https://oq711.github.io/blog/>
-- 主题：landscape（通过 npm 安装，见 `package.json`）
+- 主题：[Butterfly](https://butterfly.js.org/) 5.7.2（通过 npm 安装，配置在 `_config.butterfly.yml`）
 
 ## 本地开发
 
